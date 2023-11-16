@@ -1,5 +1,5 @@
 # Discharged
-An original Zeldalike 2D game I'm working on
+An original Zeldalike 2D game I'm working on for the New Nintendo 3DS
 
 What's the game about?
 
