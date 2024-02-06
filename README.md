@@ -21,7 +21,6 @@ Each character has different stats which can better suit your playstyle. Some ha
 
 ### Warnings
 - Saved game data will reset upon reinstalling or updating the game. To avoid this please make a backup with checkpoint and reload it once you've installed the game again.
-- Old 3ds systems currently have a crashing bug. I'm investigating the issue but I have not figured it out yet.
 - Game will freeze temporarily when loading, it will unfreeze after 15-30 seconds, unsure why this happens.
 
 ### Links
