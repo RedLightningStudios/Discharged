@@ -16,6 +16,9 @@ Each character has different stats which can better suit your playstyle. Some ha
 **PC Ports or other platforms?**
 - I would love to make a PC Version and someday I plan to investigate this idea further but for now the game is too early into development and I'd rather wait until I have something more completed before looking into this. So currently the 3ds is the only platform supported. And most of the releases only support "New" 3ds because of some technical difficulties with the old 3ds. I don't know why it crashes on o3ds hardware but it does. If anyone can help me I'd be more than happy to support o3ds completely.
 
+**3D Support?**
+- I would love to make it viewable in 3D but unfortunately I'm unable to figure out how to add it, I've tried a few times but most likely it won't be added.
+
 **Multiplayer?**
 - Multiplayer has some ideas tossed around but I have no idea how I'd make that so it most likely will not be added. Singeplayer is the main focus currently.
 
